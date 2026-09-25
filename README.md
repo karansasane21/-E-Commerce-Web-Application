@@ -178,4 +178,4 @@ Deploy using Docker and cloud services
 Karan Sasane
 
 GitHub:
-git@github.com:karansasane21/-E-Commerce-Web-Application.git
+https://github.com/karansasane21/-E-Commerce-Web-Application
